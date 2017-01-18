@@ -399,13 +399,13 @@ li {
     }
 
 .social-big {
-    width: 150px;
-    float: right;
+    width: 200px;
+    float: left;
     margin-left: 25px;
     margin-top: 8px;
 }
     .social-big a {
-        display: block;
+        margin-right: 15px;
         line-height: 42px;
     }
     .social-big a:hover {
