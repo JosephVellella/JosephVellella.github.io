@@ -401,11 +401,11 @@ li {
 .social-big {
     width: 200px;
     float: left;
-    margin-left: 25px;
+    margin-left: 0px;
     margin-top: 8px;
 }
     .social-big a {
-        margin-right: 15px;
+        margin-right: 10px;
         line-height: 42px;
     }
     .social-big a:hover {
