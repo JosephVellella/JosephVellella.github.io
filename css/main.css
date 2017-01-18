@@ -289,7 +289,7 @@ textarea {
 body {
     font-family: 'Lato', 'Helvetica', 'sans-serif';
     font-size: 16px;
-    line-height: 1.75;
+    line-height: 1.5;
     color: #333;
 }
 a {
@@ -306,7 +306,7 @@ a:hover {
 }
 
 #sidebar {
-    float: left;
+    float: left;    
     width: 310px;
     padding: 20px;
     margin: 15px 35px 0 0;
@@ -367,6 +367,7 @@ h4 {
     font-size: 21px;
     font-weight: normal;
     margin-bottom: 4px;
+    margin-top: 10px;
 }
 
 p {
@@ -395,4 +396,19 @@ li {
         width: 580px;
         border-width: 1px 3px;
         padding: 30px 30px 10px 30px;
+    }
+
+.social-big {
+    width: 150px;
+    float: right;
+    margin-left: 25px;
+    margin-top: 8px;
+}
+    .social-big a {
+        display: block;
+        line-height: 42px;
+    }
+    .social-big a:hover {
+        text-decoration: none;
+        color: #143362;
     }
